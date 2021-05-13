@@ -1,0 +1,18 @@
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\bin\Debug\netcoreapp3.1\Code Challenges.exe
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\bin\Debug\netcoreapp3.1\Code Challenges.deps.json
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\bin\Debug\netcoreapp3.1\Code Challenges.runtimeconfig.json
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\bin\Debug\netcoreapp3.1\Code Challenges.runtimeconfig.dev.json
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\bin\Debug\netcoreapp3.1\Code Challenges.dll
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\bin\Debug\netcoreapp3.1\Code Challenges.pdb
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\Code Challenges.csprojAssemblyReference.cache
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\Code Challenges_MarkupCompile.cache
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\Code Challenges.g.resources
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\Code Challenges.AssemblyInfoInputs.cache
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\Code Challenges.AssemblyInfo.cs
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\Code Challenges.csproj.CoreCompileInputs.cache
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\Code Challenges.dll
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\Code Challenges.pdb
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\Code Challenges.genruntimeconfig.cache
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\dtruman\source\repos\Code Challenges\Code Challenges\obj\Debug\netcoreapp3.1\MainWindow.g.cs
